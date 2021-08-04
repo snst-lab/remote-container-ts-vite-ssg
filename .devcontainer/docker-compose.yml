@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  client:
+    build:
+      context: .
+    volumes:
+      - ..:/app
+    ports:
+      - "3000:3000"
+      - "5000:5000"
+    stdin_open: true

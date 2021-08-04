@@ -1,0 +1,19 @@
+{
+  "extensions": [
+		"ms-ceintl.vscode-language-pack-ja",
+		"ms-vsliveshare.vsliveshare",
+		"redhat.vscode-yaml",
+		"davidanson.vscode-markdownlint",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"jcbuisson.vue"
+	],
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "client", 
+	"remoteUser": "root",
+	"workspaceFolder": "/app",
+	"shutdownAction": "stopCompose",
+	"remoteEnv": {
+		"CHOKIDAR_USEPOLLING": "true"
+	}
+}
