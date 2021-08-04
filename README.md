@@ -20,11 +20,11 @@ This template should help get you started developing with Vue 3 and Typescript i
 
 1. Click green bracket button at bottom left
 
-    ![step1](./docs/step1.JPG)
+    ![step1](./docs/step1.jpg)
 
 2. Select `Reopen in Container`
 
-    ![step2](./docs/step2.JPG)
+    ![step2](./docs/step2.jpg)
 
 ## Usage
 
